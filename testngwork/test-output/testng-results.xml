@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="5" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="loan" duration-ms="140" started-at="2020-07-17T17:51:09 IST" finished-at="2020-07-17T17:51:09 IST">
+    <groups>
+      <group name="smoke">
+        <method signature="day2.Demo2()[pri:0, instance:test.day2@4f970963]" name="Demo2" class="test.day2"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="Test" duration-ms="55" started-at="2020-07-17T17:51:09 IST" finished-at="2020-07-17T17:51:09 IST">
+      <class name="test.day2">
+        <test-method status="PASS" signature="Demo3()[pri:0, instance:test.day2@4f970963]" name="Demo3" is-config="true" duration-ms="0" started-at="2020-07-17T17:51:09 IST" finished-at="2020-07-17T17:51:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo3 -->
+        <test-method status="PASS" signature="Demo2()[pri:0, instance:test.day2@4f970963]" name="Demo2" duration-ms="9" started-at="2020-07-17T17:51:09 IST" finished-at="2020-07-17T17:51:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo2 -->
+      </class> <!-- test.day2 -->
+    </test> <!-- Test -->
+    <test name="appliences" duration-ms="18" started-at="2020-07-17T17:51:09 IST" finished-at="2020-07-17T17:51:09 IST">
+      <class name="test.day2">
+        <test-method status="PASS" signature="Bsuit()[pri:0, instance:test.day2@4f970963]" name="Bsuit" is-config="true" duration-ms="12" started-at="2020-07-17T17:51:09 IST" finished-at="2020-07-17T17:51:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bsuit -->
+      </class> <!-- test.day2 -->
+      <class name="test.day3">
+        <test-method status="PASS" signature="Bsuit()[pri:0, instance:test.day3@67205a84]" name="Bsuit" is-config="true" duration-ms="13" started-at="2020-07-17T17:51:09 IST" finished-at="2020-07-17T17:51:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bsuit -->
+        <test-method status="PASS" signature="Mobile(java.lang.String, java.lang.String)[pri:0, instance:test.day3@67205a84]" name="Mobile" duration-ms="2" started-at="2020-07-17T17:51:09 IST" data-provider="getdata" finished-at="2020-07-17T17:51:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firstusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firstpassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mobile -->
+        <test-method status="PASS" signature="Mobile(java.lang.String, java.lang.String)[pri:0, instance:test.day3@67205a84]" name="Mobile" duration-ms="1" started-at="2020-07-17T17:51:09 IST" data-provider="getdata" finished-at="2020-07-17T17:51:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[secondusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secondpassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mobile -->
+        <test-method status="PASS" signature="Mobile(java.lang.String, java.lang.String)[pri:0, instance:test.day3@67205a84]" name="Mobile" duration-ms="2" started-at="2020-07-17T17:51:09 IST" data-provider="getdata" finished-at="2020-07-17T17:51:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[thirdusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[thirdpassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mobile -->
+      </class> <!-- test.day3 -->
+    </test> <!-- appliences -->
+  </suite> <!-- loan -->
+</testng-results>

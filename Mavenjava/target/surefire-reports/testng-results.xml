@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="60" started-at="2020-07-17T17:57:24 IST" finished-at="2020-07-17T17:57:24 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="60" started-at="2020-07-17T17:57:24 IST" finished-at="2020-07-17T17:57:24 IST">
+      <class name="Daterange.WeekTest">
+        <test-method status="PASS" signature="Bed()[pri:0, instance:Daterange.WeekTest@6b09bb57]" name="Bed" duration-ms="0" started-at="2020-07-17T17:57:24 IST" finished-at="2020-07-17T17:57:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bed -->
+        <test-method status="PASS" signature="Table()[pri:0, instance:Daterange.WeekTest@6b09bb57]" name="Table" duration-ms="1" started-at="2020-07-17T17:57:24 IST" finished-at="2020-07-17T17:57:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Table -->
+      </class> <!-- Daterange.WeekTest -->
+      <class name="Daterange.MonthTest">
+        <test-method status="PASS" signature="Desktop()[pri:0, instance:Daterange.MonthTest@63753b6d]" name="Desktop" duration-ms="8" started-at="2020-07-17T17:57:24 IST" finished-at="2020-07-17T17:57:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Desktop -->
+        <test-method status="PASS" signature="Laptop()[pri:0, instance:Daterange.MonthTest@63753b6d]" name="Laptop" duration-ms="1" started-at="2020-07-17T17:57:24 IST" finished-at="2020-07-17T17:57:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Laptop -->
+      </class> <!-- Daterange.MonthTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

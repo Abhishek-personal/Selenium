@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 2.775 s <<< FAILURE! - in TestSuite
+ExtendReports.ExtendReportDemoTest.InitialDemo  Time elapsed: 2.017 s  <<< FAILURE!
+java.lang.NoSuchMethodError: com.google.common.base.Throwables.throwIfUnchecked(Ljava/lang/Throwable;)V
+	at ExtendReports.ExtendReportDemoTest.InitialDemo(ExtendReportDemoTest.java:39)
+
